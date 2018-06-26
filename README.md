@@ -2,13 +2,13 @@
 
 
 ## Table of Contents
-[Accessibility](#javascript-basics-and-tricky-questions)
-[Agile](#javascript-basics-and-tricky-questions)
-[AJAX](#javascript-basics-and-tricky-questions)
-[Angular](#javascript-basics-and-tricky-questions)
-[Bootstrap](#javascript-basics-and-tricky-questions)
-[CSS](#javascript-basics-and-tricky-questions)
-[CSS: Flexbox](#javascript-basics-and-tricky-questions)
+* [Accessibility](#javascript-basics-and-tricky-questions)
+* [Agile](#javascript-basics-and-tricky-questions)
+* [AJAX](#javascript-basics-and-tricky-questions)
+* [Angular](#javascript-basics-and-tricky-questions)
+* [Bootstrap](#javascript-basics-and-tricky-questions)
+* [CSS](#javascript-basics-and-tricky-questions)
+* [CSS: Flexbox](#javascript-basics-and-tricky-questions)
 * [Design](#javascript-basics-and-tricky-questions)
 * [Development](#javascript-basics-and-tricky-questions)
 * [Emmet](#javascript-basics-and-tricky-questions)
